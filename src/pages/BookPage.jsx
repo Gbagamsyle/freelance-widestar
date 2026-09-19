@@ -21,7 +21,7 @@ export default function BookPage() {
             target="_blank"
             rel="noreferrer"
           >
-            Continue to Fresha
+            Continue to Salonist
           </a>
         </section>
       </main>

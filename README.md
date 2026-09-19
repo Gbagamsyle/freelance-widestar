@@ -16,7 +16,7 @@ This project is a portfolio and prospecting asset focused on editorial art direc
 - Functional gallery filters
 - Contact details, map, phone, Instagram, and Facebook links
 - Mobile sticky booking bar and responsive navigation drawer
-- External booking handoff to Fresha
+- External booking handoff to Salonist
 - Vercel SPA rewrite for direct access to nested routes
 
 ## Pages
@@ -26,7 +26,7 @@ This project is a portfolio and prospecting asset focused on editorial art direc
 - `/about` - Salon story, philosophy, and principles
 - `/gallery` - Filterable salon work gallery
 - `/contact` - Location, opening hours, map, and contact actions
-- `/book` - Appointment handoff to Fresha
+- `/book` - Appointment handoff to Salonist
 
 ## Tech Stack
 
