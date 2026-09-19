@@ -1978,7 +1978,7 @@ body {
     font-size: 0.92rem;
   }
 
-  .brand-block {
+  .topbar .brand-block {
     position: absolute;
     left: 50%;
     z-index: 1;
@@ -1986,6 +1986,13 @@ body {
     transform: translateX(-50%);
     text-align: center;
     white-space: nowrap;
+  }
+
+  .site-footer .footer-brand {
+    position: static;
+    align-items: center;
+    transform: none;
+    white-space: normal;
   }
 
   .brand-tag {
